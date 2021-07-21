@@ -34,25 +34,24 @@ Here are some ideas to get you started:
 <br/>
 
 Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technology. I am a Front End Web Developer from India. Beside's programming, I enjoy playing football, online multiplayer games, playing story games, listening to music and researching about the new technologies in smart phone market.
-  <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />-->
+  
   <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on MERN stack projects;
-- 🌱 I’m currently learning Financial Markets, Fintech, Data Structures and Algorithms and DevOps
-- 👯 I’m looking to collaborate on MERN stack projects;
+- 🌱 I’m currently learning Data Structures and Algorithms, Backend Development and Machine Learning;
+- 👯 I’m looking work on making reponsive front end of different websites;
 - 🤔 I’m looking for help with DSA and competitive programming;
-- 📫 How to reach me: smalhotra2_be20@thapar.edu  https://samikmalhotra.netlify.app/
+- 📫 How to reach me: anagpal2_be20@thapar.edu
 
 
 
-<!--![Samikmalhotra's github stats](https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=tokyonight)-->
 <br>
 <br>
 
-<img width="500" height="300" align="right" alt="Samikmalhotra's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Samikmalhotra&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+<img width="500" height="300" align="right" alt="Aviral Nagpal's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Aviral-tech&show_icons=true&theme=synthwave&count_private=true" />
 
 
 **Languages and Tools:**  
