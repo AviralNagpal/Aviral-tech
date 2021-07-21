@@ -75,12 +75,7 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
 <br/>
 
 
-<!--<p align="center">
-  <img width="500" height="300" alt="Samikmalhotra's github stats" 
-          src = "https://github-readme-streak-stats.herokuapp.com/?user=Samikmalhotra&theme=black-ice"/>
-</p>-->
   
-  <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=7&column=7&theme=darkhub&margin-w=15)]-->
-  
+  <img width="1500" height="auto" align="center" alt="Aviral Nagpal's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=Aviral-tech&row=1&column=7&theme=darkhub&margin-w=15e" />
+
