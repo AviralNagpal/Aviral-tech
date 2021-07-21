@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technology. I am a Front End Web Developer from India. Beside's programming, I enjoy playing football, online multiplayer games, playing story games, listening to music and researching about the new technologies in smart phone market.
   <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />-->
-  <img align="right" height="250px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+  <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
