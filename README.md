@@ -50,7 +50,7 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
 <br>
 <br>
 
-<img width="500" height="300"  alt="Aviral Nagpal's github stats" 
+<img width="500" height="300" align="right" alt="Aviral Nagpal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Aviral-tech&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" />
 
 
