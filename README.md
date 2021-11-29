@@ -40,8 +40,8 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms, Backend Development and Machine Learning;
-- 👯 I’m looking to work on making reponsive front end of different websites;
+- 🌱 I’m currently learning Data Structures and Algorithms, Frontend Web Development using React Framework and Machine Learning;
+- 👯 I’m looking to work on developing backend for various applications and websites using Node Js;
 - 🤔 I’m looking for help with DSA and competitive programming;
 - 📫 How to reach me: anagpal2_be20@thapar.edu
 
