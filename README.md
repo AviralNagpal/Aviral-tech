@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 ### Hey 👋🏽, I'm Aviral Nagpal
 
 <br/>
-<a href="https://in.linkedin.com/in/aviral-nagpal-85a8b41b0">
-  <img align="left" alt="Aviral's LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=Aviral-tech" />
 <!--[](https://visitor-badge.glitch.me/badge?page_id=Aviral-tech.Aviral-tech)-->
@@ -76,3 +73,8 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
   <img width="1500" height="auto" align="center" alt="Aviral Nagpal's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=Aviral-tech&row=1&column=7&theme=darkhub&margin-w=15e" />
 
+<h3 align="left">💼 Connect with me:</h3>
+<p align="left">
+<a href="https://in.linkedin.com/in/aviral-nagpal-85a8b41b0" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="-@Aviral Nagpal" height="40"/>	&nbsp;</a>
+<a href="https://www.instagram.com/aviral_25_/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="aviral_25_" height="40"/>	&nbsp;</a>
+</p>
