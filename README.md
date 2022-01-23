@@ -72,7 +72,7 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <br/>
   
- <br/>
+
 <img   width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-tech&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 <img   width="500" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-tech&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
 <img width="1300" height="auto" align="center" alt="Aviral Nagpal's github stats" 
