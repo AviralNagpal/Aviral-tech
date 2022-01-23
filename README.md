@@ -73,9 +73,9 @@ Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technol
 <br/>
   
  <br/>
-<img   width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-tech&layout=compact&theme=radical&hide_border=true&hide_title=true" />
+<img   width="500" height="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-tech&layout=compact&theme=radical&hide_border=true&hide_title=true" />
 <img   width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-tech&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
-<img width="1500" height="auto" align="center" alt="Aviral Nagpal's github stats" 
+<img width="500" height="300" height="auto" align="center" alt="Aviral Nagpal's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=Aviral-tech&row=1&column=7&theme=darkhub&margin-w=15e" />
          
 <h3 align="left">💼 Connect with me:</h3>
