@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Aviral Nagpal, a freshman at Thapar Institute of Engineering and Technology. I am a Front End Web Developer from India. Beside's programming, I enjoy playing football, online multiplayer games, playing story games, listening to music and researching about the new technologies in smart phone market.
+Hi, I'm Aviral Nagpal, a final year student at Thapar Institute of Engineering and Technology. I am a MERN Stack Developer from India. Beside's programming, I enjoy playing football, online multiplayer games, playing story games, listening to music and researching about the new technologies to upskill myself.
   
   <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms, Frontend Web Development using React Framework and Machine Learning;
+- 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning and Data Analytics;
 - 👯 I’m looking to work on developing backend for various applications and websites using Node Js;
 - 🤔 I’m looking for help with DSA and competitive programming;
 - 📫 How to reach me: anagpal2_be20@thapar.edu
