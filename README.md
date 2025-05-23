@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 
 <br/>
 
-Hi, I'm Aviral Nagpal, a final year student at Thapar Institute of Engineering and Technology. I am a MERN Stack Developer from India. Beside's programming, I enjoy playing football, online multiplayer games, playing story games, listening to music and researching about the new technologies to upskill myself.
+Hi, I'm Aviral Nagpal, an R&D Engineer Software at Keysight Technologies. I specialize in Generative AI and full-stack development, working with technologies like Angular and .NET. Besides programming, I enjoy playing football, online multiplayer games, playing story games, listening to music, and exploring new technologies to continuously upskill myself.
   
   <img align="right" height="250px" alt="GIF" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning and Data Analytics;
-- 👯 I’m looking to work on developing backend for various applications and websites using Node Js;
-- 🤔 I’m looking for help with DSA and competitive programming;
-- 📫 How to reach me: anagpal2_be20@thapar.edu
+- 🌱 I’m currently diving deeper into advanced concepts in Generative AI, exploring new frameworks in Angular and .NET, and continuously enhancing my full-stack development skills.
+- 👯 I’m looking to collaborate on innovative projects involving Generative AI, or challenging full-stack applications.
+- 🤔 I’m open to discussing new ideas and solutions in AI-driven software development.
+- 📫 How to reach me: nagpalavi2001@gmail.com
 
 
 
@@ -64,6 +64,8 @@ Hi, I'm Aviral Nagpal, a final year student at Thapar Institute of Engineering a
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
 <br/>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="cplusplus" width="40" height="40"/></a>
